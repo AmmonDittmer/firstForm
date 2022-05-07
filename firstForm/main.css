@@ -1,0 +1,27 @@
+.forms {
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 100px 800px 100px 800px;
+    padding: 0;
+    border: 1px solid black;
+    border-radius: 10px;
+    
+}
+.contact {
+    display: inline-block;
+}
+
+.firstName {
+    padding: 10px 0;
+}
+
+.lastName {
+    padding: 10px 0;
+}
+
+.email {
+    padding: 10px 0;
+}
+.submit {
+    padding: 10px 0;
+}
